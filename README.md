@@ -1,4 +1,4 @@
-# myapp 
+# myapp on template project into Eclipse IDE
 
 Getting started with wxWidgets on Centos Linux
 
