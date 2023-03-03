@@ -1,8 +1,8 @@
 # myapp
 
-## Getting started with wxWidgets on Linux
+Getting started with wxWidgets on Linux
 
-Requirements
+# Requirements
 
 * C++ Compile
 
