@@ -18,6 +18,10 @@ Getting started with wxWidgets on Linux
 
 ~]$ sudo yum -y install git gcc g++ gdb make cmake wxGTK3-devel
 
+### Now verify that if it is installed properly
+
+~]$ wx-config --version
+
 ### Download the wxWidgets template project
 
 To download the template, open up your terminal and run the following GIT clone command:
