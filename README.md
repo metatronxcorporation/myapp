@@ -20,6 +20,8 @@ Getting started with wxWidgets on Linux
 
 ### Now verify that if it is installed properly
 
+~]$ make --version
+
 ~]$ cmake --version
 
 ~]$ wx-config --version
