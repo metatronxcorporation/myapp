@@ -27,3 +27,9 @@ To download the template, open up your terminal and run the following GIT clone 
 ~]$ git clone https://github.com/metatronxcorporation/myapp.git ~/myapp
 
 ~]$ cd ~/myapp
+
+myapp]$ cmake CmakeLists.txt
+
+myapp]$ make
+
+myapp]$ ./main
