@@ -40,15 +40,15 @@ myapp]$ make
 
 That this only has to be done once. From now on you can build the application by running this command from inside the build subdirectory:
 
-~]$ make all
-
-myapp]$ ./myapp
+myapp]$ make all
 
 ### Installing the application
 
 The CMakeLists.txt contains details on how to install the application as well. To install the application on your Linux system, run this command from the build subdirectory:
 
-myapp]$  sudo make install
+myapp]$ sudo make install
+
+myapp]$ ./myapp
 
 ### Import the wxWidgets template project into Eclipse IDE
 
