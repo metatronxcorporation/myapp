@@ -53,3 +53,13 @@ myapp]$ ./myapp
 ### Import the wxWidgets template project into Eclipse IDE
 
 After downloading the wxWidgets template project, we continue with importing it into Eclipse IDE. Open up Eclipse IDE and select File → Open Folder… from the program menu. Then browse to where we just cloned the wxWidgets template project. This is the directory that contains the CMakeListst.txt file, so ~/myapp:
+
+### Students Reference Books
+
+* Mastering CMake
+
+https://cmake.org/cmake/help/book/mastering-cmake/
+
+* Cross-Platform Gui Programming With wxWidgets
+
+
