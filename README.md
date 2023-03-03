@@ -2,11 +2,7 @@
 
 ## Getting started with wxWidgets on Linux
 
-### Setting up your Linux system for development with wxWidgets
-
-### Import the wxWidgets template project into Eclipse IDE
-
-### Requirements
+Requirements
 
 * C++ Compile
 
@@ -16,7 +12,7 @@
 
 * MAKE
 
-To obtain and build the CMakeWxWidgets template application, make sure that your Linux system has C++ development and Git related packages installed:
+ Setting up your Linux system for development with wxWidgets
 
 * Centos:
 
@@ -29,3 +25,5 @@ To download the template, open up your terminal and run the following GIT clone 
 ~]$ mkdir myapp
 
 ~]$ git clone https://github.com/metatronxcorporation/myapp.git ~/myapp
+
+~]$ cd ~/myapp
