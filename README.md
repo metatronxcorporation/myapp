@@ -62,7 +62,7 @@ https://cmake.org/cmake/help/book/mastering-cmake/
 
 * Mastering CMake 3.1 Edition 
 
-
+![1930934319 01 _SCLZZZZZZZ_SX500_](https://user-images.githubusercontent.com/98597119/222694746-260c90de-6dd4-44c5-b2b9-b2df8271cdce.jpg)
 
 * Cross-Platform Gui Programming With wxWidgets
 
