@@ -6,7 +6,7 @@ Getting started with wxWidgets on Linux
 
 * C++ Compile
 
-* wxWidgets 3.0 or later
+* wxWidgets 2.8 or later
 
 * CMAKE
 
