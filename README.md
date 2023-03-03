@@ -1,6 +1,6 @@
-# myapp
+# myapp 
 
-Getting started with wxWidgets on Linux
+Getting started with wxWidgets on Centos Linux
 
 # Requirements
 
