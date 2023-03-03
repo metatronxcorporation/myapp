@@ -36,6 +36,10 @@ myapp]$ cmake CmakeLists.txt
 
 myapp]$ make
 
+### Note that this only has to be done once. From now on you can build the application by running this command from inside the build subdirectory:
+
+~]$ make all
+
 myapp]$ ./myapp
 
 ### Installing the application
