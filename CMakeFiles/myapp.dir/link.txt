@@ -1,0 +1,1 @@
+/usr/bin/c++    -pthread    CMakeFiles/myapp.dir/source/main.cpp.o CMakeFiles/myapp.dir/source/mainwindow.cpp.o  -o myapp -rdynamic -pthread -Wl,-z,relro -lwx_gtk2u_core-2.8 -lwx_baseu-2.8 -lwx_gtk2u_xrc-2.8 
