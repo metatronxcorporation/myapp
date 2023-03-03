@@ -32,4 +32,4 @@ myapp]$ cmake CmakeLists.txt
 
 myapp]$ make
 
-myapp]$ ./main
+myapp]$ ./myapp
