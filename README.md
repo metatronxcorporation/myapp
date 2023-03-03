@@ -16,3 +16,7 @@ To download the template, open up your terminal and run the following GIT clone 
 
 ~]$ git clone https://github.com/metatronxcorporation/myapp.git ~/myapp
 
+### Import the wxWidgets template project into Visual Studio Code
+
+To obtain and build the CMakeWxWidgets template application, make sure that your Linux system has C++ development and Git related packages installed:
+
